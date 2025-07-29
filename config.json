@@ -1,0 +1,10 @@
+{
+  "temperatureThreshold": 30,
+  "humidityThreshold": 50,
+  "smoke": 400,
+  "notify": {
+    "discord": true,
+    "telegram": true,
+    "line": false
+  }
+}
